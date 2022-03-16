@@ -1,0 +1,154 @@
+/* STYLE INDEX PAGE */
+
+body#index {
+  background-color: lightpink;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.nav a {
+  color: black;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+/* STYLE BOLOGNESE PAGE */
+body#bolognese {
+  background-color: lightpink;
+}
+
+.bolognese-main {
+  font-family: monospace;
+  text-align: center;
+  font-size: 15px;
+}
+
+.bolognese-main img {
+  height: 80vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.bolognese-main h2 {
+  font-size: 30px;
+}
+
+.bolognese-main h3 {
+  font-size: 20px;
+}
+
+.bolognese-ingredients {
+  padding: 40px;
+}
+
+.bolognese-ingredients ul {
+  list-style: none;
+}
+
+.bolognese-preparation {
+  padding: 40px;
+}
+
+.bolognese-preparation ol {
+  line-height: 6vh;
+}
+
+/* STYLE LASAGNA PAGE */
+body#lasagna {
+  background-color: lightpink;
+}
+
+.lasagna-main {
+  font-family: monospace;
+  text-align: center;
+  font-size: 15px;
+}
+
+.lasagna-main img {
+  height: 80vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.lasagna-main h2 {
+  font-size: 30px;
+}
+
+.lasagna-main h3 {
+  font-size: 20px;
+}
+
+.lasagna-ingredients {
+  padding: 40px;
+}
+
+.lasagna-ingredients ul {
+  list-style: none;
+}
+
+.lasagna-preparation {
+  padding: 40px;
+}
+
+.lasagna-preparation ol {
+  line-height: 6vh;
+}
+
+/* STYLE TACOS PAGE */
+body#tacos {
+  background-color: lightpink;
+}
+
+.tacos-main {
+  font-family: monospace;
+  text-align: center;
+  font-size: 15px;
+}
+
+.tacos-main img {
+  height: 80vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.tacos-main h2 {
+  font-size: 30px;
+}
+
+.tacos-main h3 {
+  font-size: 20px;
+}
+
+.tacos-ingredients {
+  padding: 40px;
+}
+
+.tacos-ingredients ul {
+  list-style: none;
+}
+
+.tacos-preparation {
+  padding: 40px;
+}
+
+.tacos-preparation ol {
+  line-height: 6vh;
+}
