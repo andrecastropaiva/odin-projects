@@ -36,7 +36,7 @@ body#bolognese {
 }
 
 .bolognese-main img {
-  height: 80vh;
+  height: 60vh;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -79,7 +79,7 @@ body#lasagna {
 }
 
 .lasagna-main img {
-  height: 80vh;
+  height: 60vh;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -122,7 +122,7 @@ body#tacos {
 }
 
 .tacos-main img {
-  height: 80vh;
+  height: 60vh;
   display: block;
   margin-left: auto;
   margin-right: auto;
