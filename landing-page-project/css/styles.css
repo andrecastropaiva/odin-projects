@@ -1,0 +1,119 @@
+.container {
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+}
+
+.logo {
+   display: block;
+   color: white;
+   font-family: monospace;
+   font-size: 25px;
+   width: 50%;
+}
+
+
+.navbar-container {
+    display: flex;
+    color: white;
+    font-family: monospace;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    font-size: 20px;
+    padding: 30px;
+    text-align: end;
+    text-decoration: none;
+}
+
+
+.header-text-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.header-text {
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+    padding: 30px;
+    width: 30%;
+}
+.header-img {
+    display: flex;
+    border: 1px solid gray;
+    width: 485px;
+    height: 300px;
+}
+
+
+
+
+/*INFO SECTION*/
+.random-info {
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.info1, .info2, .info3, .info4{
+    font-size: 15px;
+}
+
+/*QUOTE SECTION*/
+.quote{
+    background-color: #E5E7EB;
+    font-family: monospace;
+    font-size: 25px;
+    font-style: italic;
+}
+
+cite {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/*NEWSLETTER SECTION*/
+.newsletter{
+        background-color: #3882F6;
+        margin: 50px 200px;
+        padding: 10px 80px;
+        display: flex;
+        align-items: center;
+        border-radius: 5px;
+}
+
+.newsletter-text{
+    color: white;
+    flex: 1;
+    font-size: x-large;
+    max-width: 70%;
+    padding: inherit;
+    text-align:left;
+}
+
+.signup-btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.signup-btn button {
+    color: white;
+    border-color: white;
+    border-radius: 8px;
+    background-color: #3882F6;
+    padding: 10px 15px;
+    font-size: 15px;
+}
+
+/*FOOTER SECTION*/
+.footer{
+    background-color: #1F2937;
+    color: white;
+    font-size: 15px;
+    padding: 25px;
+    text-align: center;
+}
